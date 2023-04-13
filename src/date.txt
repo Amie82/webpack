@@ -1,0 +1,4 @@
+Привет, Мир! 
+Я запустил Webpack
+
+//"build": "webpack --mode production",
